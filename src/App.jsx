@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <h1>helo, my name is ULUKBEK ALIEV</h1>
+      <h1>helo, my name is ULUKBEK ALIEV, today is 12/9/2025</h1>
       <p>can u chek it</p>
     </>
   )
